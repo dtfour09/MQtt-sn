@@ -1,0 +1,1 @@
+1，今日解决掉pub和sub但是sub存在俩bug
